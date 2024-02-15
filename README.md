@@ -2,7 +2,7 @@ _(cocoapods were also used)_
 install cocoapods [->website explains in detail](https://cocoapods.org)
 
 
-#to open the application 
+# to open the application 
 
 
 1. open terminal
